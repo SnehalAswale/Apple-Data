@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "category": "airpods"
+    },
+    {
+        "id": 2,
+        "category": "iphones"
+    },
+    {
+        "id": 3,
+        "category": "ipad"
+    },
+    {
+        "id": 4,
+        "category": "apple_watch"
+    },
+    {
+        "id": 5,
+        "category": "Mac"
+    }
+]

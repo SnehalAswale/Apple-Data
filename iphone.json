@@ -1,0 +1,85 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 15 Pro",
+        "Generation": "iPhone 15 Pro",
+        "category_id": "2",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-model-unselect-gallery-2-202309_GEO_EMEA?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1693010532692",
+        "info": "iPhone 15 Pro is the first iPhone to feature an aerospace‑grade titanium design, using the same alloy that spacecraft use for missions to Mars",
+        "Price": "Starting at ₹134900.00*",
+        "Average_rating": "5" 
+    },
+    {
+        "id": 2,
+        "name": "iPhone 15 Pro Max",
+        "Generation": "iPhone 15 Pro Max",
+        "category_id": "2",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-7inch_AV1?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1693009278581",
+        "info": "iPhone 15 Pro Max is the first iPhone to feature an aerospace‑grade titanium design, using the same alloy that spacecraft use for missions to Mars",
+        "Price": "Starting at ₹159900.00*",
+        "Average_rating": "4.4" 
+    },
+    {
+        "id": 3,
+        "name": "iPhone 15",
+        "Generation": "iPhone 15",
+        "category_id": "2",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-model-unselect-gallery-1-202309?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1692810665888",
+        "info": "iPhone 15 is the first iPhone to feature an aerospace‑grade titanium design, using the same alloy that spacecraft use for missions to Mars",
+        "Price": "Starting at ₹79900.00*",
+        "Average_rating": "4" 
+    },
+    {
+        "id": 4,
+        "name": "iPhone 14 Pro",
+        "Generation": "iPhone 14 Pro",
+        "category_id": "2",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-model-unselect-gallery-2-202303_GEO_EMEA?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1676930655577",
+        "info": "As amazing as ever. The ultimate iphone.",
+        "Price": "₹139900.00",
+        "Average_rating": "4.4" 
+    },
+    {
+        "id": 5,
+        "name": "iPhone 14 Pro Max",
+        "Generation": "iPhone 14 Pro Max",
+        "category_id": "2",
+        "image": "https://m.media-amazon.com/images/I/61nzPMNY8zL._SX679_.jpg",
+        "info": "17.00 cm (6.7-inch) Super Retina XDR display featuring Always-On and ProMotion Dynamic Island, a magical new way to interact with iPhone",
+        "Price": "₹1,89,900",
+        "Average_rating": "4.6" 
+    },
+    {
+        "id": 6,
+        "name": "iPhone 14",
+        "Generation": "iPhone 14",
+        "category_id": "2",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch_AV3?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1677293707302",
+        "info": "iPhone 15 Pro is the first iPhone to feature an aerospace‑grade titanium design, using the same alloy that spacecraft use for missions to Mars",
+        "Price": "Starting at ₹69900.00*",
+        "Average_rating": "4.3" 
+    },
+    
+    {
+        "id": 7,
+        "name": "iPhone 13 mini",
+        "Generation": "iPhone 13 mini",
+        "category_id": "2",
+        "image": "https://m.media-amazon.com/images/I/61VuVU94RnL._SX679_.jpg",
+        "info": "Ceramic Shield front, tougher than any smartphone glass. Water resistant to a depth of 6 metres for up to 30 minutes",
+        "Price": "₹51,999",
+        "Average_rating": "4.4" 
+    },
+    {
+        "id": 8,
+        "name": "iPhone SE",
+        "Generation": "iPhone SE (3rd generation)",
+        "category_id": "2",
+        "image": "https://m.media-amazon.com/images/I/61TOWf11+jL._SX679_.jpg",
+        "info": "Fast runs in the family.At the heart of iPhone SE you’ll find the same super-powerful A15 Bionic chip that’s in iPhone 13.",
+        "Price": "Starting at ₹49900.00*",
+        "Average_rating": "4.5" 
+    }
+
+    
+]

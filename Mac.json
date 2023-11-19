@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "MacBook Air",
+        "Generation": "MacBook Air 15-inch (M2 chip)",
+        "category_id": "5",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mba15-midnight-select-202306?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1684518479433",
+        "info": "Strikingly thin and fast so you can work, play or create anywhere.",
+        "Price": "₹134900.00",
+        "Average_rating": "4.7"
+    },
+    {
+        "id": 2,
+        "name": "MacBook Air",
+        "Generation": "MacBook Air 13-inch (M2 chip)",
+        "category_id": "5",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-midnight-select-20220606?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1653084303665",
+        "info": "Strikingly thin and fast so you can work, play or create anywhere.",
+        "Price": "₹114900.00",
+        "Average_rating": "4.7"
+    },
+    {
+        "id": 3,
+        "name": "MacBook Air",
+        "Generation": "MacBook Air 13-inch (M1 chip)",
+        "category_id": "5",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1664472289661",
+        "info": "Strikingly thin and fast so you can work, play or create anywhere.",
+        "Price": "₹99900.00",
+        "Average_rating": "4.8"
+    },
+    {
+        "id": 4,
+        "name": "MacBook Pro",
+        "Generation": "14inch MacBook Pro, M3 Chip",
+        "category_id": "5",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp14-spacegray-select-202310?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1697230830200",
+        "info": "For the first time, MacBook Pro features hardware-accelerated ray tracing. Combined with the new graphics architecture, it enables pro apps to deliver up to two-and-a-half-times faster rendering performance and allows games to provide more realistic shadows and reflections",
+        "Price": "₹169900.00",
+        "Average_rating": "4.6"
+    },
+    {
+        "id": 5,
+        "name": "MacBook Pro",
+        "Generation": "16inch MacBook Pro, M3 max chip",
+        "category_id": "5",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp16-spaceblack-select-202310?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1697311054290",
+        "info": "For the first time, MacBook Pro features hardware-accelerated ray tracing. Combined with the new graphics architecture, it enables pro apps to deliver up to two-and-a-half-times faster rendering performance and allows games to provide more realistic shadows and reflections",
+        "Price": "₹349900.00",
+        "Average_rating": "4.7"
+    },
+    {
+        "id": 6,
+        "name": "iMac",
+        "Generation": "iMac",
+        "category_id": "5",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/imac-24-no-id-blue-selection-hero-202310?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1699550935769",
+        "info": "The world’s best all‑in‑one computer, now supercharged by the M3 chip. With a stunning 60.96 cm (24″) display1 that gives you all the space you need and an iconic design that livens up any space, iMac is perfect for work and play",
+        "Price": "₹134900.00",
+        "Average_rating": "4.6"
+    },
+    {
+        "id": 7,
+        "name": "Mac mini",
+        "Generation": "Mac mini M2",
+        "category_id": "5",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-mini-hero-202301?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1670038314708",
+        "info": "Mac mini with M2 packs the speed you need to get more done faster. And M2 Pro takes it to a whole new level — bringing a pro chip to Mac mini for the first time. Add to that a versatile array of ports and you’ve got a desktop ready to flex in any setup, no matter which chip you choose.",
+        "Price": "₹59900.00",
+        "Average_rating": "4.5"
+    },
+    {
+        "id": 8,
+        "name": "Mac Studio",
+        "Generation": "Mac Studio (M2 MAX)",
+        "category_id": "5",
+        "image": "https://www.apple.com/v/mac-studio/f/images/overview/hero/static_front__fmvxob6uyxiu_large.jpg",
+        "info": "Embraced by creative pros everywhere, Mac Studio now delivers next-generation power in the form of the lightning-fast M2 Max and the boundary-breaking M2 Ultra.",
+        "Price": "₹209900.00",
+        "Average_rating": "4.4"
+    },
+    {
+        "id": 9,
+        "name": "Mac Studio",
+        "Generation": "Mac Studio (M2 Ultra)",
+        "category_id": "5",
+        "image": "https://www.apple.com/v/mac-studio/f/images/overview/hero/static_front__fmvxob6uyxiu_large.jpg",
+        "info": "Embraced by creative pros everywhere, Mac Studio now delivers next-generation power in the form of the lightning-fast M2 Max and the boundary-breaking M2 Ultra.",
+        "Price": "₹419900.00",
+        "Average_rating": "4.4"
+    },
+    {
+        "id": 10,
+        "name": "Mac Pro",
+        "Generation": "Mac Pro",
+        "category_id": "5",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-pro-tower-hero-splitter-2023?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1684181485853",
+        "info": "Mind-blowing performance now comes standard. The new Mac Pro is a game-changing combination of Apple silicon performance and PCIe expansion for specialised workflows. And every configuration comes with the incredible new M2 Ultra — our most powerful and capable chip ever",
+        "Price": "₹729900.00",
+        "Average_rating": "4.4"
+    }
+]

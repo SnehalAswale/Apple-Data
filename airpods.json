@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "AirPods Max",
+        "Generation": "AirPods Max",
+        "category_id": "1",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-max-hero-select-202011?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1604709293000",
+        "info": "The over-ear headphone has been completely reimagined. From cushion to canopy, AirPods Max are designed for an uncompromising fit that creates the optimal acoustic seal for many different head shapes — fully immersing you in every sound.",
+        "Price": "₹59900.00*",
+        "Average_rating": "4"
+    },
+    {
+        "id": 2,
+        "name": "AirPods Pro",
+        "Generation": "AirPods Pro (2nd generation)",
+        "category_id": "1",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MTJV3?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1694014871985",
+        "info": "The Apple-designed H2 chip is the force behind the advanced audio performance of AirPods Pro, working with the driver and amplifier to create crisp, high-definition sound. It uses computational algorithms to deliver noise cancellation, superior three-dimensional sound and efficient battery life — all at once.",
+        "Price": "₹24900.00*",
+        "Average_rating": "5"
+    },
+    {
+        "id": 3,
+        "name": "AirPods",
+        "Generation": "AirPods (3rd generation)",
+        "category_id": "1",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MME73?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1632861342000",
+        "info": "AirPods, the Lightning Charging Case and the MagSafe Charging Case are rated IPX4 sweat and water resistant, so they’ll withstand anything from rain to heavy workouts",
+        "Price": "₹19900.00*",
+        "Average_rating": "4"
+    },
+    {
+        "id": 4,
+        "name": "AirPods",
+        "Generation": "AirPods (2nd generation)",
+        "category_id": "1",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MV7N2?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1551489688005",
+        "info": "With plenty of talk and listen time, voice-activated Siri access and an available wireless charging case, AirPods deliver an incredible wireless headphone experience. Put them in your ears and they connect immediately, immersing you in rich, high-quality sound. Just like magic.",
+        "Price": "₹12900.00*",
+        "Average_rating": "4"
+    }
+]

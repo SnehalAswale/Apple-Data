@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Apple Watch Series 9",
+        "Generation": "Apple Watch Series 9",
+        "category_id": "4",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/s9-case-unselect-gallery-1-202309_GEO_IN?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=1693438516783",
+        "info": "All Apple Watch Series 9 cases are swimproof and dustproof with a crack-resistant front crystal.",
+        "Price": "₹54900.00*",
+        "Average_rating": "4.6"
+    },
+    {
+        "id": 2,
+        "name": "Apple Watch Ultra 2",
+        "Generation": "Apple Watch Ultra 2",
+        "category_id": "4",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ultra-band-unselect-gallery-1-202309_GEO_IN?wid=5120&hei=3280&fmt=p-jpg&qlt=80&.v=1693544574532",
+        "info": "The most rugged and capable Apple Watch pushes the limits again. Featuring the all-new S9 SiP. A magical new way to use your watch without touching the screen. The brightest Apple display ever. And now you can choose a case and strap combination that is carbon neutral.",
+        "Price": "₹89900.00*",
+        "Average_rating": "4.5"
+    },
+    {
+        "id": 3,
+        "name": "Apple Watch SE",
+        "Generation": "Apple Watch SE",
+        "category_id": "4",
+        "image": "https://www.apple.com/in/apple-watch-se/images/overview/hero/hero__d5yx0jn6usae_large.jpg",
+        "info": "Easy ways to stay connected. Motivating fitness metrics. Innovative health and safety features. And now with carbon-neutral case and strap combinations. Apple Watch SE offers totally lovable features at a feel‑good price.",
+        "Price": "₹29900.00*",
+        "Average_rating": "4.5"
+    },
+    {
+        "id": 4,
+        "name": "Apple Watch Nike",
+        "Generation": "Apple Watch Nike",
+        "category_id": "4",
+        "image": "https://www.apple.com/in/apple-watch-nike/images/overview/hero__e79vj0183wuq_large.jpg",
+        "info": "Apple and Nike have been motivating people to lace up and run for years. Now we’re reimagining how we design watch straps to help reduce waste and make the most of our existing materials.Because even small steps can make a big impact on the planet.",
+        "Strap":[
+            {
+                "color": "Game Royal/Orange Nike Sport Loop",
+                "Price": "₹4500.00"
+            },
+            {
+                "color": "Black/Blue Nike Sport Loop",
+                "Price": "₹4500.00"
+            },
+            {
+                "color": "Magic Ember Nike Sport Band - S/M",
+                "Price": "₹4500.00"
+            }
+        ],
+        "Average_rating": "4.6"
+    }
+    
+]

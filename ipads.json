@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "iPad Pro",
+        "Generation": "iPad Pro",
+        "category_id": "3",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-pro-model-select-gallery-2-202212?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1667594167534",
+        "info": "Astonishing performance. Incredibly advanced displays. Superfast wireless connectivity. Next-level Apple Pencil capabilities. Powerful new features in iPadOS 16. The ultimate iPad experience.",
+        "Price": "From ₹81900.00*",
+        "Average_rating": "4.6"
+    },
+    {
+        "id": 2,
+        "name": "iPad Air",
+        "Generation": "iPad Air",
+        "category_id": "3",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-air-finish-unselect-gallery-1-202207?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1654902977555",
+        "info": "iPad Air lets you immerse yourself in whatever you’re reading, watching or creating. The 27.69-centimetre (10.9“) Liquid Retina display features advanced technologies like True Tone, P3 wide colour and an anti-reflective coating.",
+        "Price": "From ₹59900.00*",
+        "Average_rating": "4.5"
+    },
+    {
+        "id": 3,
+        "name": "iPad",
+        "Generation": "iPad (10th generation)",
+        "category_id": "3",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-10th-gen-finish-unselect-gallery-1-202212_GEO_EMEA?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1668554661939",
+        "info": "The all‑new colourful iPad for the things you do every day.",
+        "Price": "From ₹39900.00*",
+        "Average_rating": "4.5"
+    },
+    {
+        "id": 4,
+        "name": "iPad",
+        "Generation": "iPad (9th generation)",
+        "category_id": "3",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-finish-unselect-gallery-1-202207_GEO_EMEA?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1654902561978",
+        "info": "All the essentials in the most affordable iPad.",
+        "Price": "From ₹32900.00*",
+        "Average_rating": "4.6"
+    },
+    {
+        "id": 5,
+        "name": "iPad mini",
+        "Generation": "iPad mini",
+        "category_id": "3",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-mini-finish-unselect-gallery-1-202207?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=1654903896391",
+        "info": "The full iPad experience designed to fit in one hand.",
+        "Price": "From ₹49900.00*",
+        "Average_rating": "4.7"
+    },
+    {
+        "id": 6,
+        "name": "Apple Pencil",
+        "Generation": "Apple Pencil(2nd generation)",
+        "category_id": "3",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/apple-pencil-gen2-splitter-202310?wid=560&hei=800&fmt=png-alpha&.v=1696026096014",
+        "info": "Apple Pencil sets the standard for how drawing, note-taking and marking up documents should feel — intuitive, precise and magical. All with pixel‑perfect precision, low latency, tilt sensitivity and support for palm rejection. Incredibly easy to use and ready when inspiration strikes.",
+        "Price": "₹11900.00",
+        "Average_rating": "4.6"
+    },
+    {
+        "id": 7,
+        "name": "Apple Pencil",
+        "Generation": "Apple Pencil(USB-C)",
+        "category_id": "3",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/apple-pencil-usbc-splitter-202310?wid=560&hei=800&fmt=png-alpha&.v=1696026107866",
+        "info": "The most affordable Apple Pencil.",
+        "Price": "₹7900.00",
+        "Average_rating": "4.6"
+    },
+    {
+        "id": 8,
+        "name": "Apple Pencil",
+        "Generation": "Apple Pencil(1st generation)",
+        "category_id": "3",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/apple-pencil-gen1-splitter-202310?wid=560&hei=800&fmt=png-alpha&.v=1696026096041",
+        "info": "Advanced Apple Pencil experience.",
+        "Price": "₹9500.00",
+        "Average_rating": "4.5"
+    }
+]
